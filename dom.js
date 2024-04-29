@@ -31,6 +31,7 @@ if(d=="")
     alert("confirm pass required")
     return false
 }
+
 if(c!=d)
 {
     alert("Password must be same")
